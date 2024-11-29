@@ -19,6 +19,6 @@ entries:
     name: aggregated-chart
     type: application
     urls:
-    - https://raw.githubusercontent.com/Tiket-s8d/aggregated-chart/main/charts/charts/aggregated-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/Tiket-s8d/aggregated-chart/main/charts/aggregated-chart-0.1.0.tgz
     version: 0.1.0
 generated: "2024-11-29T06:55:21.194699963-05:00"
