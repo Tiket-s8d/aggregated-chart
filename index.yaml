@@ -1,0 +1,24 @@
+apiVersion: v1
+entries:
+  aggregated-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-11-29T06:50:01.474739867-05:00"
+    dependencies:
+    - name: helm-result
+      repository: file://charts/helm-result
+      version: 0.1.0
+    - name: helm-vote
+      repository: file://charts/helm-vote
+      version: 0.1.0
+    - name: helm-worker
+      repository: file://charts/helm-worker
+      version: 0.1.0
+    description: A Helm chart for Kubernetes
+    digest: 8b46ea49977e472ddd996a8c0206fb90fc0a569c104db3f98176d610fe884083
+    name: aggregated-chart
+    type: application
+    urls:
+    - https://raw.githubusercontent.com/Tiket-s8d/aggregated-chart.git/charts/aggregated-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-11-29T06:50:01.473872156-05:00"
