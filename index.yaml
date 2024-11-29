@@ -3,7 +3,7 @@ entries:
   aggregated-chart:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-11-29T06:50:58.170203764-05:00"
+    created: "2024-11-29T06:55:21.195852637-05:00"
     dependencies:
     - name: helm-result
       repository: file://charts/helm-result
@@ -19,6 +19,6 @@ entries:
     name: aggregated-chart
     type: application
     urls:
-    - https://raw.githubusercontent.com/Tiket-s8d/aggregated-chart/master/charts/charts/aggregated-chart-0.1.0.tgz
+    - https://raw.githubusercontent.com/Tiket-s8d/aggregated-chart/main/charts/charts/aggregated-chart-0.1.0.tgz
     version: 0.1.0
-generated: "2024-11-29T06:50:58.169337573-05:00"
+generated: "2024-11-29T06:55:21.194699963-05:00"
